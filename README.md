@@ -1,6 +1,8 @@
 # Hackathon
 
 /Read input from STDIN. Print your output to STDOUT/ 
+
+
 #include <stdio.h>
 int main (int argc , char *a [ ]){
 
